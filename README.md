@@ -1,1 +1,1 @@
-# Lab2
+# Lab2. Segunda lista de laboratório de programação
